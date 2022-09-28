@@ -1,7 +1,5 @@
 # The Artists (NextJS & Sanity)
 
-Live: https://artists.mukabaw.com/
-
 
 ## 💻 Tech Stack
 
